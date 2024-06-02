@@ -22,5 +22,5 @@ The following libraries are required to successfully implement the projects.
 
 # Projects description
 
-* Regression
+* [Regression](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression)
 * Classification
