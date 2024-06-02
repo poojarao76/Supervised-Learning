@@ -1,0 +1,1 @@
+This is the simplest Linear regression model to predict california housing prices.
