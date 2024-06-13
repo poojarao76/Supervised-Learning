@@ -8,11 +8,9 @@ The contents of this project are:
 
 3. [Dataset description](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#dataset-description)
 
-4. [The problem statement](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#the-problem-statement)
+4. [Libraries required](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#libraries-required)
 
-5. [Libraries required](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#libraries-required)
-
-6. [Conclusion](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#conclusion)
+5. [Conclusion](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#conclusion)
 
 ## Introduction
 
