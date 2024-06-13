@@ -8,9 +8,9 @@ The contents of this project are:
 
 3. [Dataset description](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#dataset-description)
 
-4. [The problem statement](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#libraries-required)
+4. [The problem statement](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#the-problem-statement)
 
-5. Libraries required
+5. [Libraries required](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#libraries-required)
 
 6. [Conclusion](https://github.com/poojarao76/Supervised-Machine-Learning/tree/main/Regression/CPU_performance#conclusion)
 
@@ -26,7 +26,7 @@ The problem is to estimate the relative CPU performance of computer hardware dat
 
 Now, we should get to know more about the dataset. It is a computer hardware dataset. The dataset consists of information about the computer vendors selling computers, model name of computers and various attributes to estimate the relative performance of CPU.
 
-*The dataset can be found at the following url –*
+**The dataset can be found at the following url –**
 
 https://archive.ics.uci.edu/ml/datasets/Computer+Hardware
 
@@ -38,23 +38,23 @@ vendor name: 30
 
 (adviser, amdahl,apollo, basf, bti, burroughs, c.r.d, cambex, cdc, dec, dg, formation, four-phase, gould, honeywell, hp, ibm, ipl, magnuson, microdata, nas, ncr, nixdorf, perkin-elmer, prime, siemens, sperry, sratus, wang)
 
-*Model Name:* many unique symbols
+**Model Name:** many unique symbols
 
-*MYCT:* machine cycle time in nanoseconds (integer)
+**MYCT:** machine cycle time in nanoseconds (integer)
 
-*MMIN:* minimum main memory in kilobytes (integer)
+**MMIN:** minimum main memory in kilobytes (integer)
 
-*MMAX:* maximum main memory in kilobytes (integer)
+**MMAX:** maximum main memory in kilobytes (integer)
 
-*CACH:* cache memory in kilobytes (integer)
+**CACH:** cache memory in kilobytes (integer)
 
-*CHMIN:* minimum channels in units (integer)
+**CHMIN:** minimum channels in units (integer)
 
-*CHMAX:* maximum channels in units (integer)
+**CHMAX:** maximum channels in units (integer)
 
-*PRP:* published relative performance (integer)
+**PRP:** published relative performance (integer)
 
-*ERP:* estimated relative performance from the original article (integer)
+**ERP:** estimated relative performance from the original article (integer)
 
 ## Libraries required
 
