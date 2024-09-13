@@ -9,6 +9,8 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
 
 The project uses the Framingham Heart Study dataset, which is publicly available on Kaggle. The dataset consists of demographic, behavioral, and medical history information of patients and is used to predict the 10-year risk of coronary heart disease.
 
+Dataset link: https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
+
 **Dataset Attributes:**
 
 Each attribute is a potential risk factor. There are both **demographic, behavioural and medical risk factors**.
